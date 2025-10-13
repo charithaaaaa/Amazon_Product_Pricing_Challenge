@@ -1,0 +1,16 @@
+Ignore the large datasets provided by the competition
+dataset/
+
+Ignore all downloaded and processed images
+images/
+*.zip
+*.npy
+features_train_batches/
+features_test_batches/
+
+Ignore Python and Jupyter cache files
+pycache/
+.ipynb_checkpoints/
+
+Ignore system files
+.DS_Store
